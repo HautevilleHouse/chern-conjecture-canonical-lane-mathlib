@@ -5,3 +5,4 @@ import ChernConjectureCanonicalLaneLean.SourceDependencies
 import ChernConjectureCanonicalLaneLean.Formalization
 import ChernConjectureCanonicalLaneLean.ReviewerBridge
 import ChernConjectureCanonicalLaneLean.TheoremStatement
+import ChernConjectureCanonicalLaneLean.MathlibStatement
